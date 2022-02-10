@@ -15,9 +15,14 @@
     text-align: center;
 }
 .left-section{
-    padding: 1rem;
+    font-size: large;
+   font-weight: 500;
     grid-column: span 1;
     background-color: rgb(8, 128, 82);
+}
+
+.left-content{
+    padding:1rem;
 }
 
 img{
